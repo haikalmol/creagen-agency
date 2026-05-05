@@ -6,7 +6,7 @@ A high-converting, single-page portfolio website for a Marketing Data Automation
 
 ## 🚀 Live Demo
 
-**[View Live Site →](#)** *(Deploy to Vercel/Netlify and add link)*
+**[View Live Site →](https://creagen-agency-tau.vercel.app/)**
 
 ## ✨ Features
 
